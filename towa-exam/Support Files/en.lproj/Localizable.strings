@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  towa-exam
+
+  Created by Nico Aurelio Villanueva on 7/5/22.
+  
+*/
+
+
+// On Boarding Screen
+
+"app_title_main" = "TOWA CODE\nCHALLENGE";
+
+"app_sub_title_main" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book";
+
+"sign_up_button_title" = "Register";
+
+"login_button_title" = "Login";
+
+"developer_email" = "Developed by nicoaureliovillanueva@gmail.com";
+
+
+// Sign Up Screen
+
+"username_place_holder" = "Username";
+"password_place_holder" = "Password";
+"create_account_button_title" = "Create Account";
+"signup_sub_title" = "Please enter info to create account";
+"signup_error_title" = "Sign Up Error";
+"signup_error_message" = "Unavailable username. Username is already taken.";
+
+"ok_button_title" = "OK";
+
+"username_validation_error_message" = "Username must be at least 3 characters.";
+
+"password_validation_error_message" = "Min. 8 character, 1 uppercase & 1 lowercase.";
+
+// Login Screen
+
+"login_sub_title" = "Please sign in to continue";
+
+"login_error_title" = "Login Error";
+"login_error_message" = "The account that you've entered doesn't match any account.";
+
+// Home Screen
+
+"home_screen_title" = "User list";
+
+"home_screen_sub_title" = "You can check user detail";
+
+"warning_title" = "Warning";
+
+"logout_warning_message" = "Are you sure you want to logout?";
+
+"cancel_title" = "Cancel";
+
+// Distance Screen
+
+"distance_title" = "Distance";
+
+"current_location_title" = "You are here";
+
+// User Detail Screen
+
+"check_distance_title" = "Check distance";

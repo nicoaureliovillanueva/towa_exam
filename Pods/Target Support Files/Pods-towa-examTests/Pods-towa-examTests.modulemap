@@ -1,0 +1,6 @@
+framework module Pods_towa_examTests {
+  umbrella header "Pods-towa-examTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
